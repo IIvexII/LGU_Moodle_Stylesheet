@@ -13,9 +13,13 @@ Its a CSS stylesheet for moodle to customize the shity view of the orignal websi
 
 ## How to use it?
 * Install Stylish and open extention.
+  
     <img src="https://i.ibb.co/546zCvV/Screenshot-from-2020-11-27-09-18-50.png" width="200" height="340">
+
 * Create New style.
+    
     <img src="https://i.ibb.co/1fWhxc7/Screenshot-from-2020-11-27-09-19-19.png" width="200" height="340">
+
 * Paste the source code of CSS there.
 * Give it a name and its done.
 
