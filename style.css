@@ -1,0 +1,86 @@
+/*Menu*/
+
+/**For PF menu option*/
+a[href="http://43.225.99.58/Moodle/course/view.php?id=2061"] .media-body{
+    padding:10px 5px;
+	visibility: hidden;
+    position: relative;
+}
+a[href="http://43.225.99.58/Moodle/course/view.php?id=2061"] .media-body:after{
+	visibility: visible;
+    position: absolute;
+    top: 0;
+    left: 0;
+    content: "Programming Fundamental";
+}
+/**For ICT menu option*/
+a[href="http://43.225.99.58/Moodle/course/view.php?id=2051"] .media-body{
+	visibility: hidden;
+    position: relative;
+}
+a[href="http://43.225.99.58/Moodle/course/view.php?id=2051"] .media-body:after{
+	visibility: visible;
+    position: absolute;
+    top: 0;
+    left: 0;
+    content: "ICT";
+}
+/**For English menu option*/
+a[href="http://43.225.99.58/Moodle/course/view.php?id=2041"] .media-body{
+	visibility: hidden;
+    position: relative;
+}
+a[href="http://43.225.99.58/Moodle/course/view.php?id=2041"] .media-body:after{
+	visibility: visible;
+    position: absolute;
+    top: 0;
+    left: 0;
+    content: "English";
+}
+/**For Calculus menu option*/
+a[href="http://43.225.99.58/Moodle/course/view.php?id=2031"] .media-body{
+	visibility: hidden;
+    position: relative;
+}
+a[href="http://43.225.99.58/Moodle/course/view.php?id=2031"] .media-body:after{
+	visibility: visible;
+    position: absolute;
+    top: 0;
+    left: 0;
+    content: "Calculus";
+}
+/**For Physics menu option*/
+a[href="http://43.225.99.58/Moodle/course/view.php?id=2021"] .media-body{
+	visibility: hidden;
+    position: relative;
+}
+a[href="http://43.225.99.58/Moodle/course/view.php?id=2021"] .media-body:after{
+	visibility: visible;
+    position: absolute;
+    top: 0;
+    left: 0;
+    content: "Applied Physics";
+}
+/**For GENSUR menu option*/
+a[href="http://43.225.99.58/Moodle/mod/quiz/view.php?id=49989"] .media-body{
+	visibility: hidden;
+    position: relative;
+}
+a[href="http://43.225.99.58/Moodle/mod/quiz/view.php?id=49989"] .media-body:after{
+	visibility: visible;
+    position: absolute;
+    top: 0;
+    left: 0;
+    content: "Panyukki";
+}
+a[href="http://43.225.99.58/Moodle/course/view.php?id=1657"] .media-body{
+	visibility: hidden;
+    position: relative;
+}
+a[href="http://43.225.99.58/Moodle/course/view.php?id=1657"] .media-body:after{
+	visibility: visible;
+    position: absolute;
+    top: 0;
+    left: 0;
+    content: "Panyukki";
+}
