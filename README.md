@@ -1,1 +1,1 @@
-#![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FLahore_Garrison_University&psig=AOvVaw2pg3ic0vB5egwyYbayUSNA&ust=1606535040866000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDv-sfnoe0CFQAAAAAdAAAAABAJ) LGU_Moodle_Stylesheet
+#![](https://upload.wikimedia.org/wikipedia/en/c/cb/Lahore_Garrison_University.png) LGU_Moodle_Stylesheet
