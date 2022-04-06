@@ -5,7 +5,7 @@
 </p>
 
 ## Description
-Its a CSS stylesheet for moodle to customize the shity view of the orignal website.
+Its a CSS stylesheet for moodle to customize the view of the orignal website.
 
 ## Requirement
 * [Stylish - Chrome Extention](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en)
